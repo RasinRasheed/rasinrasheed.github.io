@@ -1,0 +1,71 @@
+/*!
+ * Start Bootstrap - The Big Picture (https://startbootstrap.com/template-overviews/the-big-picture)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-the-big-picture/blob/master/LICENSE)
+ */
+
+body {
+  background: url('http://placehold.it/1920x1080') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+/* Container holding the image and the text */
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+/* Bottom left text */
+.bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+}
+
+/* Top left text */
+.top-left {
+    position: absolute;
+    top: 60px;
+    left: 0px;
+}
+
+/* Top right text */
+.top-right {
+    position: absolute;
+    top: 8px;
+    right: 0px;
+}
+
+/* Bottom right text */
+.bottom-right {
+    position: absolute;
+    top: 30px;
+    right: 0px;
+}
+
+/* Centered text */
+.centered {
+    position: absolute;
+    top: 250px;
+    left: 100%;
+    transform: translate(-50%, -50%);
+}
+
+
+.centered2 {
+    position: absolute;
+    top: 295px;
+    left: 100%;
+    transform: translate(-50%, -50%);
+}
+
+.centered3 {
+    position: absolute;
+    top: 287px;
+    left: 100%;
+    transform: translate(-50%, -50%);
+}
